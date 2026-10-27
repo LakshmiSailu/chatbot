@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hello this is sailu"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello Sailu! Nice to meet you. How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "i want to know about ai full form"
+  },
+  {
+    "role": "assistant",
+    "content": "AI stands for **Artificial Intelligence**. \n\nIt refers to the field of computer science and technology focused on creating systems capable of performing tasks that typically require human intelligence, such as learning, reasoning, problem-solving, understanding language, and perception."
+  }
+]

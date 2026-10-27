@@ -1,0 +1,3 @@
+Model: nvidia/nemotron-3.5-lightning:free
+Finish reason: stop
+Answer: 'Hello!'
